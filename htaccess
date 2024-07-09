@@ -1,5 +1,5 @@
 
-Header set Access-Control-Allow-Origin "*"
+Header set Access-Control-Allow-Origin: "*"
 
 # HTID:19050332: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
 php_value display_errors 1

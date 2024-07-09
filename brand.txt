@@ -78,4 +78,4 @@ PMB12 | Philip Morris Bold 12 | 10.000 | 0,
 DMC12 | Magnum Classic 12 | 17.350 | 1,
 TRI20 | Triton 20 | 23.350 | 1,
 CAP01 | Umiku Capcin Resell | 6.000 | 0,
-CAP02 | Umiku Capcin | 7.000 | 0
+CAP02 | Umiku Capcin | 7.000 | 1
